@@ -1,0 +1,63 @@
+{
+  "office": [
+    {
+      "id": 1,
+      "name": "Yudha Office",
+      "location": "Jombang",
+      "capacity": "100",
+      "price": "10000000",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, doloremque saepe molestiae, deserunt explicabo, dolores blanditiis amet perspiciatis libero eligendi vel beatae veniam assumenda obcaecati nam fugiat expedita incidunt repellendus."
+    },
+    {
+      "id": 2,
+      "name": "Saipul Office",
+      "location": "Malang",
+      "capacity": "50",
+      "price": "5000000",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, doloremque saepe molestiae, deserunt explicabo, dolores blanditiis amet perspiciatis libero eligendi vel beatae veniam assumenda obcaecati nam fugiat expedita incidunt repellendus."
+    },
+    {
+      "id": 3,
+      "name": "Soekarno Office",
+      "location": "Jakarta",
+      "capacity": "125",
+      "price": "13000000",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, doloremque saepe molestiae, deserunt explicabo, dolores blanditiis amet perspiciatis libero eligendi vel beatae veniam assumenda obcaecati nam fugiat expedita incidunt repellendus."
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "yudhaph",
+      "email": "yudhapamungkas@gmail.com",
+      "password": "brawijaya",
+      "alamat": "Jombang"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "user12345",
+      "alamat": "Malang"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "password": "admin1"
+    },
+    {
+      "id": 2,
+      "username": "admin2",
+      "password": "admin2"
+    }
+  ],
+  "akun": [
+    {
+     "id": null,
+     "id_admin": "",
+     "id_customer": ""
+    }
+  ]
+}
